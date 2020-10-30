@@ -1,2 +1,2 @@
-# Web-Interfaces
-Study Projects - Web Interfaces
+# Web User Interfaces
+Study Projects - Web User Interfaces
